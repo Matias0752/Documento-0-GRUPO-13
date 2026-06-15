@@ -136,11 +136,12 @@ convidata/
 
 Integrantes del proyecto:
 
-- Nombre integrante 1
-- Nombre integrante 2
-- Nombre integrante 3
+- Vicente Vera
+- Rodrigo flores
 - Matías Ibarra
-- Nombre integrante 5
+- Isaias
+- Osvaldo Caraccioli
+- Maximiliano 
 
 ---
 
