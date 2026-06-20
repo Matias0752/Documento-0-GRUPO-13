@@ -141,7 +141,7 @@ Integrantes del proyecto:
 - Matías Urria
 - Isaias Ortiz
 - Osvaldo Caraccioli
-- Maximiliano 
+- Maximiliano Soto
 - Benjamin Orellana
 ---
 
