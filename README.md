@@ -137,12 +137,12 @@ convidata/
 Integrantes del proyecto:
 
 - Vicente Vera
-- Rodrigo flores
-- Matías Ibarra
-- Isaias
+- Rodrigo Flores
+- Matías Urria
+- Isaias Ortiz
 - Osvaldo Caraccioli
 - Maximiliano 
-
+- Benjamin Orellana
 ---
 
 ## Metodología de Trabajo
